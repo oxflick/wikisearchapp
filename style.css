@@ -68,3 +68,9 @@ form {
   margin-bottom: 8px;
 }
 
+@media (max-width: 768px) {
+  #buttonSearch {
+    margin-top: 10px;
+  }
+}
+
