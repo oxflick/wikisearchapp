@@ -1,0 +1,70 @@
+body {
+  background-color: #6f5499;
+  color: white;
+}
+
+.title {
+    text-align: center;
+    margin-top: 60px;
+}
+
+#page-wrap {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.result {
+  background-color: white;
+  border-radius: 8px;
+  padding: 25px;
+  display: none;
+  font-family: 'Merriweather', serif;
+}
+
+.container {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.arttitle {
+  padding-left: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #f68710;
+}
+
+.snippet {
+  padding-left: 11px;
+  color: #6e6b6b;
+}
+
+.thumbnail a {
+  text-decoration: none;
+}
+
+.thumbnail a .arttitle:hover {
+  color: black;
+}
+
+#page-wrap a {
+  text-decoration: none;
+}
+
+#page-wrap a:visited {
+  color: #efe2e0;
+}
+
+.random {
+  color: #fff;
+  font-size: 18px;
+}
+
+.random:hover {
+  color: #f68710;
+}
+
+form {
+  margin-bottom: 8px;
+}
+
